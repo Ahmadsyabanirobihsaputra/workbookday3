@@ -1,0 +1,87 @@
+Cara Kerja Program MovingObject
+
+1. Server (MovingObjectServer)
+
+Server akan bertugas sebagai pusat kendali. Ia akan:
+
+Menjalankan sebuah form (ServerForm) dengan background biru.
+
+Membuat sebuah kotak (PictureBox) biru di dalam form.
+
+Kotak ini bergerak otomatis ke kanan dan kiri (atau random), dan jika menyentuh tepi form, akan memantul.
+
+Posisi kotak ini dikirim ke semua client melalui koneksi TCP.
+  
+
+🔹 Alur server:
+
+- Saat ServerForm dibuat:
+
+maka akan Membuat PictureBox (kotak biru).
+
+Membuat Timer untuk mengatur pergerakan kotak.
+
+Membuka TcpListener di port 5000 agar client bisa terhubung.
+
+
+- Timer setiap interval akan:
+
+Mengupdate posisi kotak (bergerak otomatis).
+
+Jika menyentuh tepi form, arah kotak dibalik → efek memantul.
+
+Posisi terbaru dikirim ke semua client (BroadcastPosition).
+
+
+- Saat client baru terhubung, server akan menambahkannya ke daftar client.
+
+
+  
+
+2. Client (MovingObjectClient)
+
+Client akan bertugas sebagai penerima dan penampil posisi kotak dari server.
+  
+
+Saat client dijalankan:
+
+maka akan Membuka form (ClientForm) dengan background biru.
+
+Membuat kotak biru (PictureBox) di posisi awal.
+
+Menghubungkan ke server lewat TcpClient("127.0.0.1", 5000).
+
+Menjalankan Thread yang terus mendengarkan data posisi dari server.
+
+
+🔹 Alur client:
+
+ketika ClientForm dibuat maka kotak muncul di layar.
+
+Client terhubung ke server.
+
+Thread ReceiveData() membaca posisi terbaru kotak dari server.
+
+Kotak client bergerak sinkron mengikuti kotak server.
+  
+
+
+
+3. Komunikasi Server dengan Client
+
+Format data yang dikirim server ke client = string "x,y".
+
+Contoh: "150,200" maka artinya posisi kotak ada di koordinat X=150, Y=200.
+
+Server mengirim data ini setiap kali posisi kotak berubah.
+
+Client menerima string kemudian memecahnya dengan Split(',') → mengupdate posisi kotaknya.
+  
+
+4. Hasil Akhir
+
+Server mempunyai form dengan kotak biru dan bergerak otomatis (random/memantul).
+
+Semua client yang terhubung akan menampilkan kotak yang bergerak sama persis seperti di server.
+
+Warna background form di server & client = biru muda, kotak = biru tua ( bisa diganti sesuai kebutuhan )
