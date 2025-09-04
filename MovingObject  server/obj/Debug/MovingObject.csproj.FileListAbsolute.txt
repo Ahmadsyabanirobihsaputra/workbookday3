@@ -1,0 +1,29 @@
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe.config
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.pdb
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Form1.resources
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.pdb
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\obj\Debug\MovingObject.Form1.resources
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\obj\Debug\MovingObject.exe
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\obj\Debug\MovingObject.pdb
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\bin\Debug\MovingObject.exe.config
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\bin\Debug\MovingObject.exe
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  2\bin\Debug\MovingObject.pdb
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\bin\Debug\MovingObject.exe.config
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\bin\Debug\MovingObject.exe
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\bin\Debug\MovingObject.pdb
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\obj\Debug\MovingObject.exe
+C:\Users\msi\Downloads\pemprograman jaringan\NetworkProgramming-master\MovingObject  server\obj\Debug\MovingObject.pdb
