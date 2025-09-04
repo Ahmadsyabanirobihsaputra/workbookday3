@@ -1,0 +1,10 @@
+pada file moving object server buka movingobject.exe yang terletak pada ( ini akan digunakan sebagai server )
+
+MovingObject server\bin\Debug
+
+pada file moving object server buka movingobject.exe yang terletak pada ( ini akan digunakan sebagai klien )
+
+MovingObject client\bin\Debug
+
+
+penting : buka server terlebih dahulu sebelum membuka klien
